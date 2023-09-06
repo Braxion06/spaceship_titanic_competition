@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Data
+data/
+
 # Environments
 .env
 .venv
@@ -11,6 +14,3 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
-# Data
-data
