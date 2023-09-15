@@ -1,6 +1,8 @@
 # spaceship_titanic_competition
 
-This is my Spacheship Titanic submission
+This is my Spacheship Titanic submission.
+
+The goal is to predict if the passengers got transported into an alternate dimension or not
 
 ---
 
